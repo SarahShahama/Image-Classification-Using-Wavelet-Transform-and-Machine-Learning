@@ -90,4 +90,4 @@ Experiment with deep learning models (CNNs) for better accuracy.
 
 Extend to multi-class celebrity classification.
 
-Explore applications in medical imaging and high-dimensional data, which connect with my research interests .
+Explore applications in medical imaging and high-dimensional data, which connect with my research interests.
